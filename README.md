@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Mayank Kumar Poddar**
+**Mayank Kumar Poddar and Saumyakumar Chauhan**
 
 - 📧 Email: [24f1000666@ds.study.iitm.ac.in](mailto:24f1000666@ds.study.iitm.ac.in)
 - 🐙 GitHub: [@saumyakumarchauhan](https://github.com/saumyakumarchauhan)
